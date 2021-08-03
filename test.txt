@@ -1,1 +1,4 @@
 We are attending Git session.
+
+powered by hackclub
+hack
